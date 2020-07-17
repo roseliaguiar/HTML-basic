@@ -1,0 +1,41 @@
+body {
+    width: 95%;
+    max-width: 800px;
+    margin: auto;
+    background: url(galaxia.jpg) center;
+    
+    font-family: sans-serif;
+    line-height: 1.5;
+    color: white;
+}
+
+main{
+    background: #00000054;
+    padding: 5px 40px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.logo,
+.band-name,
+.headline {
+    text-align: center;
+    margin: 0;
+}
+
+.logo img {
+    width: 100px;
+}
+
+.pedras {
+    margin: 30px 0;
+    text-align: center;
+    width: 100%;
+}
+
+.pedras table {
+    background: #cb3a3ab3;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 0 auto;
+}
