@@ -1,2 +1,2 @@
 # HTML-basic
-  Basic principles HTML.
+  Principios básicos de HTML.
